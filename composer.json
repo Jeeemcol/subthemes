@@ -1,0 +1,6 @@
+{
+    "name": "jim/smarty-subtheme",
+    "require": {
+        "smarty/smarty": "^3.1"
+    }
+}

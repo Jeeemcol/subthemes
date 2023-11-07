@@ -20,3 +20,8 @@ You can edit the subthemes by adding config settings into the file `my.cnf` and 
 You can use the templating on the command line by `cd` into the directory and then using the command `php process.php`.
 
 Files will be generated into `generated/[one2/two2 etc.]`
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contibutions and issue reporting welcome
